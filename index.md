@@ -1,5 +1,3 @@
-
-
 public class StringServer {
 
     private static final List<String> messages = new ArrayList<>();
