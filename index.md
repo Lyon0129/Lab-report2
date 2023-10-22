@@ -69,9 +69,15 @@ public class StringServer {
   Before the request:Due to the prior request of /add-message?s=Hello, the messages list already contains: ["1. Hello"].
   During the request:The code extracts the message How are you from the request. It then appends the next sequence number (in this case, 2) and the extracted message to the messages list.
   After the request:The messages list now contains two entries: ["1. Hello", "2. How are you"].
-
+Part2
 ![image](https://github.com/Lyon0129/Lab-report2/assets/130290363/0eb765a0-dc65-4f4c-8fa1-ecd79ae801da)
 ![image](https://github.com/Lyon0129/Lab-report2/assets/130290363/95be1e6c-7e4c-4944-8f9c-2b882619fd8c)
+![image](https://github.com/Lyon0129/Lab-report2/assets/130290363/4a8d28c1-dc0f-4e19-91fc-25046af757b5)
+
+Part3
+I have learned about how to how to building and running a server.
+I also know about how to set my SSH keys for easy access.
+
 
 
 
